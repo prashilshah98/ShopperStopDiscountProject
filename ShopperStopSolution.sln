@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopperStopSolution", "ShopperStopSolution\ShopperStopSolution.csproj", "{AD714CFD-2065-473D-BC54-F801F2313637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopperStopTest", "ShopperStopTest\ShopperStopTest.csproj", "{C5993E3D-3AB5-4C46-84D2-C1608FDF22D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD714CFD-2065-473D-BC54-F801F2313637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD714CFD-2065-473D-BC54-F801F2313637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD714CFD-2065-473D-BC54-F801F2313637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD714CFD-2065-473D-BC54-F801F2313637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5993E3D-3AB5-4C46-84D2-C1608FDF22D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5993E3D-3AB5-4C46-84D2-C1608FDF22D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5993E3D-3AB5-4C46-84D2-C1608FDF22D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5993E3D-3AB5-4C46-84D2-C1608FDF22D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E527FDA9-50ED-419C-873A-6611DB5F178F}
+	EndGlobalSection
+EndGlobal
